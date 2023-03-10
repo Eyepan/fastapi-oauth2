@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["checkpw"],
+  "python.formatting.provider": "black"
+}
